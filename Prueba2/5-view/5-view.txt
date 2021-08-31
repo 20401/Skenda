@@ -1,0 +1,7 @@
+esta carpeta es muy importante,
+pues en eta ese ubicara toda la informacion 
+que se mostrara en el navegador.
+
+esta carpeta debe de ir en minuscula.
+
+aqui estaran los archivos html .css y js de javascript.

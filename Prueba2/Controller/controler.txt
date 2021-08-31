@@ -1,0 +1,6 @@
+en esta carpeta iniciada con mayuscula es la encargada
+de responder una peticion URL
+
+
+ademas de eso va realcionado 
+Va relacionado con el archivo etc/frontend/routes.xml

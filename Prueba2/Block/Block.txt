@@ -1,0 +1,2 @@
+en esta carpeta se pondran todos los controladores delpara gestionar el
+las herramientas con los cuales se logra agilizar las peticiones de http del controlador
