@@ -1,0 +1,4 @@
+en esta carpeca iran todos los controladores
+es donde van a estar las soliditudes o peticiones URL
+aqui es donde va a estar realcionado con el archivosetchup
+etc/frontend/routers.xml.

@@ -1,0 +1,15 @@
+en esta carpeta es muy esencial agregar toda clase de informacion.
+ que este reacionada con el modulo, se pueden configurar las instalaciones 
+ y desde aqui se logra modificar directamente toda la base de datos. 
+
+
+ se denota recordar  que los archivos que se encuentran aqui solo a la base de datos.se
+ estan en esta carpeta solo se ejecutaran con el comandos.
+ bin/magento setup: upgrade.
+
+
+
+bin/magento setup:upgrade     se:up
+
+ con este comando de hace la intalacion del modulo y actualizacion
+  (modificacion necesarias para que el modulo funcione correctamente) 
