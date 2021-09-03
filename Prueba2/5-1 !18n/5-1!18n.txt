@@ -1,3 +1,0 @@
-en esta carpeta se pondran todas las traduciones de idiomas 
-es muy importante a la hora de ubicar diferentes idiomas 
-en nnuestro proyecto
