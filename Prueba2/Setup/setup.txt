@@ -1,3 +1,5 @@
+esta carpeta inicia con mayuscula
+
 en esta carpeta es muy esencial agregar toda clase de informacion.
  que este reacionada con el modulo, se pueden configurar las instalaciones 
  y desde aqui se logra modificar directamente toda la base de datos. 
